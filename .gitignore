@@ -1,15 +1,30 @@
-# Remix compiler artifacts
-**/artifacts/
-**/artifacts/**
 
-# Remix plugin state folders
+# Intellectual Property of Eng. Awsan Sultan
+# Project: Awsan-Sultan-Crypto-Ecosystem
+# Protected Files - DO NOT REMOVE
+
+# Private Keys and Secrets (لحماية مفاتيحك الخاصة)
+.env
+*.env
+.secret
+.key
+private_key.json
+
+# Development Frameworks (ملفات تجارب العقود الذكية)
+artifacts/
+cache/
+build/
+contracts/Flattened.sol
 deps/
 states/
-
-# Debug info
 *.dbg.json
 *.tsbuildinfo
 
-# Optional
-.env
-.env.local
+# Node modules (ملفات تشغيل البرمجيات الضخمة)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# Operating System Files (ملفات النظام)
+.DS_Store
+Thumbs.db
