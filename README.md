@@ -1,5 +1,12 @@
 # Eng. Awsan Sultan - Crypto Ecosystem v1.0
+---
+### 🏗️ PROJECT STATUS: UNDER ACTIVE DEVELOPMENT & REVIEW
+**Current Phase:** Alpha (Technical Foundation)
+**Last Update:** April 2026
 
+> **Notice to Investors & Developers:**  
+> This ecosystem is currently undergoing intensive development, technical auditing, and architectural review by **Eng. Awsan Sultan**. Core modules are being committed regularly. This repository serves as the official intellectual property record for the 2026 roadmap.
+---
 This repository serves as the central hub for a multi-layered blockchain project.
 
 ### Core Modules:
