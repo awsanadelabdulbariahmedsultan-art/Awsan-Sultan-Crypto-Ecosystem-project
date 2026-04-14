@@ -16,5 +16,9 @@ This repository serves as the central hub for a multi-layered blockchain project
 4. **Crypto-Game:** PvP/PvE logic, Skill trees, and In-game economy.
 5. **Mining-Infra:** Power management, Load-balancing, and PSU/UPS monitoring.
 
+### 🌐 Community & Networking
+- **Official Discord Server:** [Join ASICE Community](https://discord.gg/ubnecmx3)
+- **LinkedIn Founder Profile:** [Eng. Awsan Sultan](https://linkedin.com)
+
 ---
 © Copyright (c) 2026 Eng. Awsan Adel Abdulbari Ahmed Sultan / YEMEN /(ID: 01010305468) / PHONE. 00967777852433 / EMAIL-awsan.sultan@gmail.com / LinkedIn. https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9?utm_source=share_via&utm_content=profile&utm_medium=member_android
