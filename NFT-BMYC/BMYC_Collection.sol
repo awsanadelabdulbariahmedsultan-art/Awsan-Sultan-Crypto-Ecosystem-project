@@ -8,7 +8,7 @@ pragma solidity ^0.8.20;
  * @dev ID: 01010305468 | YEMEN | Copyright 2026
  */
 
-import "https://github.com";
+import "https://github.com/awsanadelabdulbariahmedsultan-art/Awsan-Sultan-Crypto-Ecosystem-project";
 
 contract BMYC_Collection is ERC721 {
     address public owner;
