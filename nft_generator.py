@@ -37,7 +37,7 @@ def generate_metadata(edition):
     return {
         "name": f"{PROJECT_NAME} #{edition}",
         "description": "Official IP of Eng. Awsan Sultan. Protected Ecosystem Asset.",
-        "external_url": "https://://github.com",
+        "external_url": "https://github.com/awsanadelabdulbariahmedsultan-art/Awsan-Sultan-Crypto-Ecosystem-project",
         "image": f"ipfs://PLACEHOLDER/{edition}.webp",
         "edition": edition,
         "attributes": [
