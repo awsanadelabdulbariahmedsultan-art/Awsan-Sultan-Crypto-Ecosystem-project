@@ -4,7 +4,8 @@
 # Project: Awsan Sultan Art (ASA) - Persistent Generation System
 # Created by: Eng. Awsan Adel Abdulbari Ahmed Sultan
 # Country: YEMEN | ID: 01010305468 | Phone: +967 777852433
-# Repository: ://github.com
+# Repository: 
+# https://github.com/awsanadelabdulbariahmedsultan-art/Awsan-Sultan-Crypto-Ecosystem-project
 # ---------------------------------------------------------------------------------------------
 # Copyright (c) 2026. All Rights Reserved. This code is the property of Eng. Awsan Sultan.
 # =============================================================================================
