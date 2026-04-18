@@ -11,7 +11,7 @@ pragma solidity ^0.8.20;
 import "https://github.com/awsanadelabdulbariahmedsultan-art/Awsan-Sultan-Crypto-Ecosystem-project";
 
 contract BMYC_Collection is ERC721 {
-    address public owner;
+    address public owner;0x79fd74ae9cd16838fd2bf61274cda5c37da1f714
     uint256 public nextTokenId;
     uint256 public royaltyFee = 5; // 5% عوائد للمهندس أوسان من كل بيع مستقبلي
 
