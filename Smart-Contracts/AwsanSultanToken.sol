@@ -6,7 +6,7 @@ pragma solidity ^0.8.20;
  * @author Eng. Awsan Adel Abdulbari Ahmed Sultan
  * @notice Intellectual Property Owner: Eng. Awsan Sultan
  * @dev ID: 01010305468 | YEMEN | Phone: 00967777852433
- * @dev LinkedIn: https://linkedin.com
+ * @dev LinkedIn: https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9?utm_source=share_via&utm_content=profile&utm_medium=member
  * @copyright 2026 Eng. Awsan Sultan. All Rights Reserved.
  */
 
