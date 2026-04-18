@@ -15,7 +15,7 @@ contract AwsanSultanToken {
     string public symbol = "AST";             // رمز العملة
     uint8 public decimals = 18;
     uint256 public totalSupply;
-    address public owner;
+    address public owner;0x79fd74ae9cd16838fd2bf61274cda5c37da1f714
 
     mapping(address => uint256) public balanceOf;
     mapping(address => mapping(address => uint256)) public allowance;
