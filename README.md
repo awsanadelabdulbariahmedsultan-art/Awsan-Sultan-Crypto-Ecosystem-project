@@ -36,8 +36,6 @@
 
 ### 📁 بيانات المالك والتوثيق | Founder Identity & Credentials
 
-| البيانات | القيمة |
-| :--- | :--- |
 
 | **Founder | المؤسس** |**Eng. Awsan Adel Abdulbari Ahmed Sultan** |
 
