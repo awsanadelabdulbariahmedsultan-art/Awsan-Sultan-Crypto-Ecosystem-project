@@ -39,9 +39,13 @@
 | البيانات | القيمة |
 | :--- | :--- |
 | **Founder | المؤسس** | **Eng. Awsan Adel Abdulbari Ahmed Sultan** |
+
 | **National ID | الهوية** | `01010305468` |
+
 | **Country | البلد** | 🇾🇪 **YEMEN** |
+
 | **Phone | هاتف** | `+967 777 852 433` |
+
 | **Email | إيميل** | [awsan.sultan@gmail.com](mailto:awsan.sultan@gmail.com) |
 
 ---
