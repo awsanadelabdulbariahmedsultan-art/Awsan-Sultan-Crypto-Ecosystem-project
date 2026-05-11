@@ -1,62 +1,46 @@
-# 🚀 Marketing & Launch Strategy 2026
-> ### **Project: Awsan Sultan Crypto Ecosystem (ASICE)**
-> **Strategic Growth Engine & Global Outreach Roadmap**
+# ⚖️ Legal Notice & Intellectual Property Rights
+> ### **Official Record of Ownership | السجل الرسمي للملكية الفكرية**
 
 ---
 
-### 👤 المالك والممثل الرسمي | Official Representative
-*   **Architect:** Eng. Awsan Adel Abdulbari Ahmed Sultan
-*   **IP License:** `2026-AS-YEM-MKT`
-*   **Identity Status:** ✅ **Verified (ID: 01010305468)**
+### 👤 بيانات المالك الشرعي | Legal Owner Credentials
+*   **Architect & Founder:** Eng. Awsan Adel Abdulbari Ahmed Sultan
+*   **National ID (Yemen):** `01010305468` ✅ **Verified Holder**
+*   **Official Contact:** 📧 [awsan.sultan@gmail.com](mailto:awsan.sultan@gmail.com) | 📱 [+967 777 852 433](https://wa.me)
 
 ---
 
-## 🤝 1. بناء المجتمع (Community Engagement)
-*   **The BMYC Newsletter:** نشرات شهرية حصرية لحاملي الـ NFT لمتابعة تقدم خارطة الطريق.
-*   **Exclusive Access:** وصول مبكر وحصري لمبيعات "العملة الخاصة" (Private Sales) لعملة **AST** للمستثمرين الأوائل.
+## 🛡️ تأكيد حقوق الملكية الفكرية | Intellectual Property Assertion
 
----
-
-## 📈 2. آليات النمو الفيروسي (Viral Growth Mechanisms)
-*   **Referral Program:** نظام مكافآت يمنح المستخدمين **5%** من عملة **AST** مقابل كل مستثمر جديد يتم جلبه عبر الرابط الفريد.
-*   **Gifting System:** ميزة "الإهداء" داخل اللعبة الرقمية لزيادة انتشار المنظومة بين اللاعبين (Network Effect).
-
----
-
-## 🗓️ 3. مراحل الإطلاق الاستراتيجية (Launch Phases)
-
-### 🔹 المرحلة الأولى: التكوين (The Genesis) | [أول 3 أشهر]
-*   **Global PR:** حملة علاقات عامة عالمية تستهدف LinkedIn ومنصات التواصل الاجتماعي للعملات الرقمية.
-*   **Exclusive Events:** استضافة فعاليات حصرية لكبار المستثمرين المؤسسيين في **اليمن والشرق الأوسط**.
-
-### 🔹 المرحلة الثانية: الاكتتاب والإدراج (ICO & Listing) | [الشهر 4-6]
-*   **ICO Platform:** إطلاق منصة الاكتتاب الأولي بواجهة مستخدم متطورة وسهلة.
-*   **Major Exchanges:** التقديم للإدراج في منصات التداول العالمية الكبرى باستخدام واجهة الربط البرمجي (Trading API).
-
-### 🔹 المرحلة الثالثة: التكامل الكامل (Full Integration) | [الشهر 7-12]
-*   **PvP Battles:** إطلاق معارك الزعماء (Boss Battles) ببركة جوائز ضخمة من عملة **AST**.
-*   **BMYC Clubhouse:** افتتاح النادي الفيزيائي لحاملي الفئات العليا من الـ NFT (Top-tier holders).
-
----
-
-## 🛡️ 4. الهوية التجارية والموثوقية (Brand Identity)
 > [!IMPORTANT]
-> يجب أن تحمل جميع المواد التسويقية الختم الرسمي للمهندس **أوسان سلطان** لضمان الأصالة والثقة الكاملة من قبل المستثمرين.
+> **الحماية القانونية الشاملة:** جميع محتويات هذا المستودع (Repository) محمية بموجب قوانين الملكية الفكرية الدولية. أي استخدام غير مصرح به، أو إعادة إنتاج، أو توزيع لهذه المواد دون موافقة كتابية صريحة سيؤدي إلى ملاحقة قانونية فورية.
+
+**تشمل الملكية الحصرية (على سبيل المثال لا الحصر):**
+*   **Smart Contract Architectures:** هياكل العقود الذكية بلغة (Solidity).
+*   **Mining Logic:** منطق موازنة الأحمال لمزارع التعدين (Load-Balancing).
+*   **NFT Frameworks:** إطارات العمل الخاصة بالعلامة التجارية (BMYC).
+*   **Strategic Workflows:** مسارات العمل الاستراتيجية لعمليات الـ ICO/IDO.
+*   **Game Mechanics:** ميكانيكا الألعاب الرقمية وأشجار المهارات البرمجية.
 
 ---
 
-### 📊 ملخص أدوات التسويق (Marketing Tech Stack)
+## ⚠️ إخلاء مسؤولية | Disclaimer (Arabic & English)
 
 
-| الأداة (Tool) | الوظيفة (Function) | الحالة (Status) |
-| :--- | :--- | :--- |
-| **Referral API** | تتبع المكافآت آلياً | ⚙️ Ready |
-| **Trading API** | الربط مع المنصات العالمية | 🛠️ Testing |
-| **ICO Dashboard** | إدارة مبيعات العملة | 🚀 Deployment |
-| **BMYC Hub** | إدارة مجتمع الـ NFT | ✅ Active |
+| البند (Provision) | التفاصيل (Details) |
+| :--- | :--- |
+| **Financial Risk** | يتضمن هذا المشروع تقنيات بلوكتشين وأدوات مالية؛ الاستثمار في الأصول الرقمية ينطوي على مخاطر عالية. |
+| **No Responsibility** | المالك غير مسؤول عن أي خسائر مالية يتكبدها أطراف ثالثة نتيجة استخدام هذه الأدوات. |
+| **Software Status** | يتم توفير البرمجيات "كما هي" (As-is) دون أي ضمانات من أي نوع، صريحة أو ضمنية. |
+| **Legal Compliance** | المستخدم مسؤول عن التأكد من توافق أنشطته مع القوانين المحلية والدولية. |
+
+---
+
+### 📜 بروتوكول الترخيص | Licensing Protocol
+لا يمنح هذا المستودع أي رخصة استخدام تجاري للعامة. للحصول على تراخيص الاستخدام أو الشراكات الرسمية، يرجى التواصل مباشرة مع المهندس **أوسان سلطان** عبر القنوات الرسمية المذكورة أعلاه.
 
 ---
 <p align="center">
-  <b>Eng. Awsan Adel Abdulbari Ahmed Sultan</b><br>
-  <i>Empowering the Future through Innovation & Strategic Marketing.</i>
+  <b>© 2026 Eng. Awsan Adel Abdulbari Ahmed Sultan. All Rights Reserved.</b><br>
+  <i>"Protected by the International Intellectual Property Framework."</i>
 </p>
