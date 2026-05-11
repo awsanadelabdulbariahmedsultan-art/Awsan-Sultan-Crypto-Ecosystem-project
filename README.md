@@ -38,8 +38,8 @@
 
 | البيانات | القيمة |
 | :--- | :--- |
-| **Founder | المؤسس** |
-**Eng. Awsan Adel Abdulbari Ahmed Sultan** |
+
+| **Founder | المؤسس** |**Eng. Awsan Adel Abdulbari Ahmed Sultan** |
 
 | **National ID | الهوية** | `01010305468` |
 
