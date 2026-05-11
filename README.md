@@ -1,24 +1,51 @@
-# Eng. Awsan Sultan - Crypto Ecosystem v1.0
+# 🏛️ Eng. Awsan Sultan - Crypto Ecosystem v1.0
+> ### **The Official Intellectual Property Hub | 2026 Strategic Roadmap**
+
 ---
+
+### 🛡️ إشعار الملكية الفكرية والبرمجية | Intellectual Property & Legal Notice
+> [!IMPORTANT]
+> **جميع الحقوق محفوظة © 2026. المهندس أوسان عادل عبدالباري أحمد سلطان.**
+> كافة الأكواد، الهياكل البرمجية، المخططات التقنية، والنماذج الاقتصادية (Tokenomics) الموجودة في هذا المستودع هي ملكية حصرية ومحمية قانونياً. يمنع منعاً باتاً النسخ، الاقتباس، أو الاستخدام التجاري دون تصريح كتابي رسمي من المالك.
+> 
+> **Copyright (c) 2026 Eng. Awsan Sultan.** All rights reserved. The architecture, source code, and logic herein are the exclusive IP of the founder. Unauthorized duplication or distribution is strictly prohibited.
+
+---
+
 ### 🏗️ PROJECT STATUS: UNDER ACTIVE DEVELOPMENT & REVIEW
-**Current Phase:** Alpha (Technical Foundation)
-**Last Update:** April 2026
-
-> **Notice to Investors & Developers:**  
-> This ecosystem is currently undergoing intensive development, technical auditing, and architectural review by **Eng. Awsan Sultan**. Core modules are being committed regularly. This repository serves as the official intellectual property record for the 2026 roadmap.
----
-This repository serves as the central hub for a multi-layered blockchain project.
-
-### Core Modules:
-1. **Core-Blockchain:** ETH-based designs & Hybrid structures.
-2. **Smart-Contracts:** ICO mechanisms, DAO, and Insurance protocols.
-3. **NFT-BMYC:** Branding, Manga, and Metadata architecture.
-4. **Crypto-Game:** PvP/PvE logic, Skill trees, and In-game economy.
-5. **Mining-Infra:** Power management, Load-balancing, and PSU/UPS monitoring.
-
-### 🌐 Community & Networking
-- **Official Discord Server:** [Join ASICE Community](https://discord.gg/ubnecmx3)
-- **LinkedIn Founder Profile:** [Eng. Awsan Sultan]([https://linkedin.com](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9?utm_source=share_via&utm_content=profile&utm_medium=member))
+*   **Current Phase:** Alpha (Technical Foundation)
+*   **Last Update:** April 2026
+*   **Architect:** Eng. Awsan Adel Abdulbari Ahmed Sultan (ID: `01010305468`)
 
 ---
-© Copyright (c) 2026 Eng. Awsan Adel Abdulbari Ahmed Sultan / YEMEN /(ID: 01010305468) / PHONE. 00967777852433 / EMAIL-awsan.sultan@gmail.com / LinkedIn. https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9?utm_source=share_via&utm_content=profile&utm_medium=member
+
+### ⚙️ الوحدات الأساسية للمنظومة | Core Modules
+1.  **Core-Blockchain:** تصميمات قائمة على شبكة ETH وهياكل هجينة متطورة.
+2.  **Smart-Contracts:** آليات الـ ICO، وأنظمة الـ DAO، وبروتوكولات التأمين الذكية.
+3.  **NFT-BMYC:** هندسة العلامة التجارية، المانجا الرقمية، وتصميم البيانات الوصفية.
+4.  **Crypto-Game:** منطق الـ PvP/PvE، شجر المهارات، واقتصاد الألعاب المتكامل.
+5.  **Mining-Infra:** إدارة الطاقة، موازنة الأحمال، ومراقبة أنظمة PSU/UPS.
+
+---
+
+### 🌐 المجتمع والتواصل | Community & Networking
+*   **Official Discord:** [🚀 Join ASICE Community](https://discord.gg/ubnecmx3)
+*   **LinkedIn Profile:** [👨‍💻 Eng. Awsan Sultan](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9)
+
+---
+
+### 📁 بيانات المالك والتوثيق | Founder Identity & Credentials
+
+| البيانات | القيمة |
+| :--- | :--- |
+| **Founder | المؤسس** | **Eng. Awsan Adel Abdulbari Ahmed Sultan** |
+| **National ID | الهوية** | `01010305468` |
+| **Country | البلد** | 🇾🇪 **YEMEN** |
+| **Phone | هاتف** | `+967 777 852 433` |
+| **Email | إيميل** | [awsan.sultan@gmail.com](mailto:awsan.sultan@gmail.com) |
+
+---
+<p align="center">
+  <b>© Copyright (c) 2026 Eng. Awsan Adel Abdulbari Ahmed Sultan</b><br>
+  <i>Certified Intellectual Property Record for the ASICE Ecosystem</i>
+</p>
