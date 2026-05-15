@@ -12,7 +12,7 @@
 | **Eng. Awsan Adel Abdulbari Ahmed Sultan** | `01010305468` | 🇾🇪 Yemen |
 
 * **📧 البريد الإلكتروني:** [awsan.sultan@gmail.com](mailto:awsan.sultan@gmail.com)
-* **📱 قنوات التواصل المباشر:** [+967 777 852 433](https://wa.me) / [+967 776 633 003](https://wa.me)
+* **📱 قنوات التواصل المباشر:** [00967776633003](https://wa.me) / [00967777852433](https://wa.me)
 
 ---
 
