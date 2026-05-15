@@ -1,5 +1,9 @@
 # 🏛️ Eng. Awsan Adel Abdulbari Ahmed Sultan | Crypto Ecosystem v0.0.1
-> ### **The Official Intellectual Property Hub & 2026 Strategic Roadmap**
+
+<p align="center">
+  <a href="#-إشعار-الملكية-الفكرية-والبرمجية--legal--ip-notice"><b>العربية 🇸🇦</b></a> | 
+  <a href="#-legal--ip-notice--إشعار-الملكية-الفكرية-والبرمجية"><b>English 🇺🇸</b></a>
+</p>
 
 ---
 
@@ -14,51 +18,50 @@
 ---
 
 ### 🏗️ حالة المشروع | Project Status
-* **الطور الحالي:** Alpha (التأسيس التقني وبناء الهيكل)
-* **آخر تحديث:** أبريل 2026
-* **المهندس المسؤول:** م. أوسان عادل عبدالباري أحمد سلطان (رقم الهوية: `01010305468`)
+
+* **الطور الحالي / Current Phase:** Alpha (التأسيس التقني وبناء الهيكل / Technical Foundation)
+* **آخر تحديث / Last Update:** أبريل 2026 / April 2026
+* **المهندس المسؤول / Architect:** م. أوسان عادل عبدالباري أحمد سلطان / Eng. Awsan Adel Abdulbari Ahmed Sultan (`ID: 01010305468`)
 
 ---
 
 ### ⚙️ الوحدات الأساسية للمنظومة | Core Modules
 
 * **🌐 Core-Blockchain**
-  * تصميمات قائمة على شبكة ETH.
-  * هياكل هجينة (Hybrid Structures) متطورة.
+  * تصميمات قائمة على شبكة ETH وهياكل هجينة متطورة.
+  * *Ethereum-based designs and advanced hybrid structures.*
 * **📜 Smart-Contracts**
-  * آليات وعقود الـ ICO.
-  * أنظمة الحوكمة اللامركزية DAO.
-  * بروتوكولات التأمين الذكية.
+  * آليات وعقود الـ ICO، أنظمة الحوكمة DAO، وبروتوكولات التأمين الذكية.
+  * *ICO mechanisms, DAO governance systems, and smart insurance protocols.*
 * **🎨 NFT-BMYC**
-  * هندسة وتصميم العلامة التجارية.
-  * المانجا الرقمية المبتكرة.
-  * تصميم وتطوير البيانات الوصفية (Metadata).
+  * هندسة وتصميم العلامة التجارية، المانجا الرقمية المبتكرة، وتطوير البيانات الوصفية.
+  * *Brand architecture, innovative digital Manga, and metadata development.*
 * **🎮 Crypto-Game**
-  * منطق وتوازن ألعاب PvP/PvE.
-  * شجر المهارات (Skill Trees) وأنظمة التطوير.
-  * نظام الاقتصاد المالي للألعاب (GameFi).
+  * منطق وتوازن ألعاب PvP/PvE، شجر المهارات، واقتصاد الألعاب المتكامل (GameFi).
+  * *PvP/PvE game logic, skill trees, and integrated game economics (GameFi).*
 * **⚡ Mining-Infra**
-  * حلول متقدمة لإدارة الطاقة وموازنة الأحمال.
-  * أنظمة مراقبة وحماية PSU/UPS.
+  * حلول متقدمة لإدارة الطاقة، موازنة الأحمال، ومراقبة أنظمة PSU/UPS.
+  * *Advanced power management, load balancing, and PSU/UPS monitoring systems.*
 
 ---
 
 ### 🌐 المجتمع والتواصل | Community & Networks
-* **Discord Community:** [🚀 انضم إلى مجتمع ASICE](https://discord.gg/ubnecmx3)
-* **LinkedIn Profile:** [👨‍💻 الملف الشخصي للمهندس أوسان عادل عبدالباري أحمد سلطان](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9)
+
+* **Discord Community:** [🚀 انضم إلى مجتمع ASICE / Join ASICE Community](https://discord.gg/ubnecmx3)
+* **LinkedIn Profile:** [👨‍💻 الملف الشخصي للمهندس أوسان / Eng. Awsan Profile](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9)
 
 ---
 
 ### 📁 بيانات المالك والتوثيق | Founder Identity & Credentials
 
 
-| Founder | المؤسس | Details / التفاصيل |
-| :--- | :--- | :--- |
-| **Name** | **الاسم** | Eng. Awsan Adel Abdulbari Ahmed Sultan |
-| **National ID** | **الهوية** | `01010305468` |
-| **Country** | **البلد** | 🇾🇪 YEMEN |
-| **Phone** | **الهاتف** | `00967777852433` / `00967776633003` |
-| **Email** | **البريد** | [awsan.sultan@gmail.com](mailto:awsan.sultan@gmail.com) |
+| Feature / الخاصية | Details / التفاصيل |
+| :--- | :--- |
+| **👤 Founder / المؤسس** | Eng. Awsan Adel Abdulbari Ahmed Sultan |
+| **🪪 National ID / الهوية** | `01010305468` |
+| **领 Country / البلد** | 🇾🇪 YEMEN / اليمن |
+| **📞 Phone / الهاتف** | `00967777852433` / `00967776633003` |
+| **📧 Email / البريد** | [awsan.sultan@gmail.com](mailto:awsan.sultan@gmail.com) |
 
 ---
 
@@ -66,7 +69,3 @@
   <b>© Copyright (c) 2026 Eng. Awsan Adel Abdulbari Ahmed Sultan</b><br>
   <i>Certified Intellectual Property Record for the ASICE Ecosystem</i>
 </p>
-
-
-
-
