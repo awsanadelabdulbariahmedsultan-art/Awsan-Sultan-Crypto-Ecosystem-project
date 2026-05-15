@@ -14,7 +14,7 @@
 * **📧 البريد الإلكتروني:** [awsan.sultan@gmail.com](mailto:awsan.sultan@gmail.com)
 * **📱 قنوات التواصل المباشر:** [00967776633003](https://wa.me) / [00967777852433](https://wa.me)
   
-* **LinkedIn Profile:** [👨‍💻 الملف الشخصي للمهندس أوسان عادل عبدالباري أحمد سلطان](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9)
+* **اللينكد ان:** [👨‍💻 الملف الشخصي للمهندس أوسان عادل عبدالباري أحمد سلطان](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9)
 ---
 
 ## 🚀 1. الملخص التنفيذي | Executive Summary
