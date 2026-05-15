@@ -23,7 +23,8 @@
 
 * **الطور الحالي / Current Phase:** Alpha (التأسيس التقني وبناء الهيكل / Technical Foundation)
 * **آخر تحديث / Last Update:** أبريل 2026 / April 2026
-* **المهندس المسؤول / Architect:** م. أوسان عادل عبدالباري أحمد سلطان / Eng. Awsan Adel Abdulbari Ahmed Sultan (`ID: 01010305468`)
+* **المهندس المسؤول / Architect:** م. أوسان عادل عبدالباري أحمد سلطان / Eng. Awsan Adel Abdulbari Ahmed Sultan
+* **معرف الهوية / National ID:** `01010305468`
 
 ---
 
