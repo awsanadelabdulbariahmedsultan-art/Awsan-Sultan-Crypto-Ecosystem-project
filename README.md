@@ -43,7 +43,7 @@
 
 | **Country | البلد** | 🇾🇪 **YEMEN** |
 
-| **Phone | هاتف** | `+967 777 852 433` |
+| **Phone | هاتف** | `00967777852433 / 00967776633003` |
 
 | **Email | إيميل** | [awsan.sultan@gmail.com](mailto:awsan.sultan@gmail.com) |
 
