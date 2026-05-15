@@ -84,5 +84,5 @@
 
 <p align="center">
   <b>© 2026 Eng. Awsan Adel Abdulbari Ahmed Sultan. All Rights Reserved.</b><br>
-  <i>"Building the future of decentralized finance from the heart of Yemen."</i>
+  <i>"Building the future of decentralized finance from Yemen."</i>
 </p>
