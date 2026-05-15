@@ -1,5 +1,5 @@
 # 📄 WHITEPAPER: Awsan Sultan Integrated Crypto Ecosystem (ASICE)
-> ### **Strategic Vision 2026 | Version 1.0**
+> ### **Strategic Vision 2026 | Version 0.0.1**
 > **An All-in-One Blockchain Solution: From Infrastructure to Meta-Economy**
 
 ---
