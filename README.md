@@ -72,7 +72,7 @@
 ### 🌐 المجتمع والتواصل | Community & Networks
 
 * **Discord Community:** [🚀 انضم إلى مجتمع ASICE / Join ASICE Community](https://discord.gg/ubnecmx3)
-* **LinkedIn Profile:** [👨‍💻 الملف الشخصي للمهندس أوسان / Eng. Awsan Profile](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9)
+* **LinkedIn Profile:** [👨‍💻  الملف الشخصي للمهندس أوسان عادل عبدالباري سلطان/ Eng. Awsan Adel Abdulbari Sultan Profile](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9)
 
 ---
 
