@@ -6,7 +6,7 @@
 # Country: YEMEN | ID: 01010305468 | Phone: +967 777852433
 # Repository: https://github.com/awsanadelabdulbariahmedsultan-art/Awsan-Sultan-Crypto-Ecosystem-project
 # ---------------------------------------------------------------------------------------------
-# Copyright (c) 2026. All Rights Reserved. This code is the property of Eng. Awsan Sultan.
+# Copyright (c) 2026. All Rights Reserved. This code is the property of Eng. Awsan Adel Abdulbari Ahmed Sultan.
 # =============================================================================================
 
 import os
