@@ -7,7 +7,7 @@
 *   **Architect & Founder:** Eng. Awsan Adel Abdulbari Ahmed Sultan
 *   **National ID (Yemen):** `01010305468` ✅ **Verified Holder**
 *   **Official Contact:** 📧 [awsan.sultan@gmail.com](mailto:awsan.sultan@gmail.com) | 📱 [+967 777 852 433](https://wa.me)
-
+* **LinkedIn Profile:** [👨‍💻 الملف الشخصي للمهندس أوسان عادل عبدالباري أحمد سلطان](https://www.linkedin.com/in/awsan-adel-abdulbari-ahmed-sultan-8aa5a1a9)
 ---
 
 ## 🛡️ تأكيد حقوق الملكية الفكرية | Intellectual Property Assertion
