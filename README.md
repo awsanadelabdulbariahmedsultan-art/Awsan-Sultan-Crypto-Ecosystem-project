@@ -1,4 +1,4 @@
-ون# 🏛️ Eng. Awsan Sultan | Crypto Ecosystem v1.0
+# 🏛️ Eng. Awsan Adel Abdulbari Ahmed Sultan | Crypto Ecosystem v1.0
 > ### **The Official Intellectual Property Hub & 2026 Strategic Roadmap**
 
 ---
@@ -51,9 +51,22 @@
 
 ### 📁 بيانات المالك والتوثيق | Founder Identity & Credentials
 
-| Founder | المؤسس | Eng. Awsan Adel Abdulbari Ahmed Sultan |
+
+| Founder | المؤسس | Details / التفاصيل |
 | :--- | :--- | :--- |
+| **Name** | **الاسم** | Eng. Awsan Adel Abdulbari Ahmed Sultan |
 | **National ID** | **الهوية** | `01010305468` |
 | **Country** | **البلد** | 🇾🇪 YEMEN |
 | **Phone** | **الهاتف** | `00967777852433` / `00967776633003` |
 | **Email** | **البريد** | [awsan.sultan@gmail.com](mailto:awsan.sultan@gmail.com) |
+
+---
+
+<p align="center">
+  <b>© Copyright (c) 2026 Eng. Awsan Adel Abdulbari Ahmed Sultan</b><br>
+  <i>Certified Intellectual Property Record for the ASICE Ecosystem</i>
+</p>
+
+
+
+
