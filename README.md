@@ -51,18 +51,9 @@
 
 ### 📁 بيانات المالك والتوثيق | Founder Identity & Credentials
 
-
-| الخاصية | الوصف / Detail |
-| :--- | :--- |
-|  ** 👤  المؤسس  |  Founder**  |  Eng. Awsan Adel Abdulbari Ahmed Sultan |
-| **🪪 الهوية | National ID** | `01010305468` |
-| **🇾🇪 البلد | Country** | YEMEN |
-| **📞 الهاتف | Phone** | `00967777852433` / `00967776633003` |
-| **📧 البريد | Email** | [awsan.sultan@gmail.com](mailto:awsan.sultan@gmail.com) |
-
----
-
-<p align="center">
-  <b>© Copyright (c) 2026 Eng. Awsan Adel Abdulbari Ahmed Sultan</b><br>
-  <i>Certified Intellectual Property Record for the ASICE Ecosystem</i>
-</p>
+| Founder | المؤسس | Eng. Awsan Adel Abdulbari Ahmed Sultan |
+| :--- | :--- | :--- |
+| **National ID** | **الهوية** | `01010305468` |
+| **Country** | **البلد** | 🇾🇪 YEMEN |
+| **Phone** | **الهاتف** | `00967777852433` / `00967776633003` |
+| **Email** | **البريد** | [awsan.sultan@gmail.com](mailto:awsan.sultan@gmail.com) |
