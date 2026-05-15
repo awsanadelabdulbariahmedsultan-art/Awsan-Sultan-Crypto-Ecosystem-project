@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="#-إشعار-الملكية-الفكرية-والبرمجية--legal--ip-notice"><b>العربية 🇸🇦</b></a> | 
+  
   <a href="#-legal--ip-notice--إشعار-الملكية-الفكرية-والبرمجية"><b>English 🇺🇸</b></a>
 </p>
 
@@ -21,7 +22,8 @@
 
 * **الطور الحالي / Current Phase:** Alpha (التأسيس التقني وبناء الهيكل / Technical Foundation)
 * **آخر تحديث / Last Update:** أبريل 2026 / April 2026
-* **المهندس المسؤول / Architect:** م. أوسان عادل عبدالباري أحمد سلطان / Eng. Awsan Adel Abdulbari Ahmed Sultan (`ID: 01010305468`)
+* **المهندس المسؤول / Architect:** م. أوسان عادل عبدالباري أحمد سلطان /
+*  Eng. Awsan Adel Abdulbari Ahmed Sultan (`ID: 01010305468`)
 
 ---
 
