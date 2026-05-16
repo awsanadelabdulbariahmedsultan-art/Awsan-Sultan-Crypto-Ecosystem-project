@@ -3,8 +3,11 @@
 > **An All-In-One Blockchain Architecture: From Physical Infrastructure to Meta-Economy**
 
 <p align="center">
+  
   <a href="#-1-الملخص-التنفيذي--executive-summary"><b>العربية 🇸🇦</b></a> | 
-  <a href="#-1-executive-summary--الملخص-التنفيذي"><b>English 🇺🇸</b></a>
+  
+  <a href="#-1-executive-summary--الملخص-التنفيذي"><b>English 🇺🇸</b></a> |
+  
 </p>
 
 ---
