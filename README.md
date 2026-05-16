@@ -2,7 +2,7 @@
   <img src="ASICE LOGO.png" alt="ASICE Logo" width="220px" height="auto" />
 </p>
 
-# 🏛️ Eng. Awsan Adel Abdulbari Ahmed Sultan | Crypto Ecosystem v0.0.1
+# 🏛️ Eng. Awsan Adel Abdulbari A. Sultan | Crypto Ecosystem v0.0.1
 > ### **The Official Intellectual Property Hub & 2026 Strategic Roadmap**
 > **An All-In-One Blockchain Architecture: From Physical Infrastructure to Meta-Economy**
 
