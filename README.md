@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ASICE LOGO.png" alt="ASICE Logo" width="220px" height="auto" />
+</p>
+
 # 🏛️ Eng. Awsan Adel Abdulbari Ahmed Sultan | Crypto Ecosystem v0.0.1
 > ### **The Official Intellectual Property Hub & 2026 Strategic Roadmap**
 > **An All-In-One Blockchain Architecture: From Physical Infrastructure to Meta-Economy**
@@ -31,7 +35,7 @@
 ### 🚀 1. الملخص التنفيذي | Executive Summary
 
 > [!NOTE]
-> يمثل مشروع **ASICE** نهجاً شمولياً متطوراً في عالم الويب 3 (Web3)، حيث يدمج بكفاءة بين البنية التحتية المادية ومزارع التعدين، الأصول الرقمية الفريدة (NFTs)، والتمويل اللامركزي (DeFi). تحت قيادة وتصميم المهندس **أوسان عادل عبدالباري أحمد سلطان**، تهدف هذه المنظومة المتكاملة إلى توفير بيئة تقنية مستدامة وعالية الربحية، تجمع بين متانة القوة البرمجية والاستدامة المادية طويلة المدى.
+> يمثل مشروع **ASICE** نهجاً شمولياً متطوراً في عالم الويب 3 (Web3)، حيث يدمج بكفاءة بين البنية التحتية المادية ومزارع التعدين, الأصول الرقمية الفريدة (NFTs)، والتمويل اللامركزي (DeFi). تحت قيادة وتصميم المهندس **أوسان عادل عبدالباري أحمد سلطان**، تهدف هذه المنظومة المتكاملة إلى توفير بيئة تقنية مستدامة وعالية الربحية، تجمع بين متانة القوة البرمجية والاستدامة المادية طويلة المدى.
 > 
 > *ASICE ecosystem represents a comprehensive approach to Web3, merging physical mining infrastructure, NFTs, and Decentralized Finance (DeFi). Led by Eng. Awsan Sultan, the project aims to deliver a sustainable, high-yield architecture balancing software engineering with long-term macroeconomic stability.*
 
@@ -60,6 +64,7 @@
 ### 📊 3. نظرة عامة على المنظومة التقنية | Technical System Overview
 
 
+
 | الوحدة / Module | التكنولوجيا المستخدمة / Tech Stack | الحالة الحالية / Current Status |
 | :--- | :--- | :--- |
 | **🪙 AST Token** | ERC-20 / Smart Contracts | 🛠️ In Development (Alpha) |
@@ -77,6 +82,7 @@
 ---
 
 ### 📁 بيانات المالك والتوثيق | Founder Identity & Credentials
+
 
 
 | Feature / الخاصية | Details / التفاصيل |
