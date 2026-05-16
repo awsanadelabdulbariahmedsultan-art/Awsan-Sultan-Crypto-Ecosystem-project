@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="ASICE LOGO.png" alt="ASICE Logo" width="220px" height="auto" />
+</p>
+
+
+
+
 # 📄 WHITEPAPER: Awsan Sultan Integrated Crypto Ecosystem (ASICE)
 > ### **Strategic Vision 2026 | Version 0.0.1**
 > **An All-In-One Blockchain Architecture: From Physical Infrastructure to Meta-Economy**
