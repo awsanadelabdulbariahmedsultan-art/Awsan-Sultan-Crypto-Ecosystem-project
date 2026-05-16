@@ -7,8 +7,11 @@
 > **An All-In-One Blockchain Architecture: From Physical Infrastructure to Meta-Economy**
 
 <p align="center">
+  
   <a href="#-إشعار-الملكية-الفكرية-والبرمجية--legal--ip-notice"><b>العربية 🇸🇦</b></a> | 
+  
   <a href="#-legal--ip-notice--إشعار-الملكية-الفكرية-والبرمجية"><b>English 🇺🇸</b></a>
+  
 </p>
 
 ---
