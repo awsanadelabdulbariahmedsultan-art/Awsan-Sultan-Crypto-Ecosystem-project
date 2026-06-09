@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="ASICE LOGO.png" alt="ASICE Logo" width="220px" height="auto" />
+  <img src="ASICE LOGO.png" alt="ASICE Logo" width="1254" height="1254" />
 </p>
-
 
 
 
